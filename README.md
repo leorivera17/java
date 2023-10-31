@@ -1,21 +1,30 @@
-CSC 203: Object-Oriented Programming Course
+## CSC 203: Object-Oriented Programming Course
 
-Duration: 10 weeks
-Proficient Use of IDE: Utilized IntelliJ IDEA, a leading integrated development environment (IDE), to write, debug, and refactor code efficiently.
-Key Achievements:
+- **Duration:** 10 weeks
 
-Object-Oriented Principles: Gained a deep understanding of object-oriented programming principles, their application, and their significance in software development.
+### Proficient Use of IDE
+- Utilized **IntelliJ IDEA**, a leading integrated development environment (IDE), to write, debug, and refactor code efficiently.
 
-Class Design: Designed and implemented classes, abstract classes, and interfaces, enhancing knowledge of software architecture and design patterns.
+### Key Achievements
 
-Code Refactoring: Successfully refactored a complex codebase to improve accessibility, maintainability, and overall functionality, reinforcing the importance of clean, efficient code.
+- **Object-Oriented Principles:**
+  - Gained a deep understanding of object-oriented programming principles, their application, and their significance in software development.
 
-Virtual World Development: Developed a virtual world program within a 2D environment where users could interact with the system using keyboard inputs.
+- **Class Design:**
+  - Designed and implemented classes, abstract classes, and interfaces, enhancing knowledge of software architecture and design patterns.
 
-Data Structures and Algorithms: Acquired proficiency in data structures and algorithms, with a particular focus on pathfinding strategies, such as the A* search algorithm, critical for optimizing navigation and decision-making in software applications.
+- **Code Refactoring:**
+  - Successfully refactored a complex codebase to improve accessibility, maintainability, and overall functionality, reinforcing the importance of clean, efficient code.
 
-Pixel-Based Graphics: Applied pixel-based graphic design techniques for creating characters and graphics, a valuable skill for developing 2D applications.
+- **Virtual World Development:**
+  - Developed a virtual world program within a 2D environment where users could interact with the system using keyboard inputs.
 
-Outcome:
+- **Data Structures and Algorithms:**
+  - Acquired proficiency in data structures and algorithms, with a particular focus on pathfinding strategies, such as the A* search algorithm, critical for optimizing navigation and decision-making in software applications.
 
-Prepared for a career in software development with a strong foundation in object-oriented programming, software design, code optimization, and practical experience using IntelliJ IDEA to develop high-quality software solutions.
+- **Pixel-Based Graphics:**
+  - Applied pixel-based graphic design techniques for creating characters and graphics, a valuable skill for developing 2D applications.
+
+### Outcome
+
+- Prepared for a career in software development with a strong foundation in object-oriented programming, software design, code optimization, and practical experience using IntelliJ IDEA to develop high-quality software solutions.
